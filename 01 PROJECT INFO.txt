@@ -1,0 +1,8 @@
+**Softkutala***
+
+**Database Name: mokumbu**
+
+**Developed by Softkutala**
+
+**Recomendamos a Versão 5.6 ou Nova do PHP**
+
